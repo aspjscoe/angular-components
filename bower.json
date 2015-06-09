@@ -1,0 +1,20 @@
+{
+  "name": "angular-components",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aspjscoe/angular-components",
+  "authors": [
+    "vasum001 <Mathan.X.Vasudevan.-ND@disney.com>"
+  ],
+  "description": "Angular components",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
